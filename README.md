@@ -23,3 +23,6 @@ Project content:
   
 5.Logger configuration: the logger is configured to display coloured log messages on the console and the logging level is set to DEBUG.
   -Runs the defined tests and displays the corresponding log messages for each test. At the end, depending on the score obtained, an information message is displayed.
+
+  
+![img-2](https://github.com/AlexPanainte/Test-App-the-monitoring-the-hours-worked-program/assets/126809877/12aea31a-81df-456d-933d-9c599bc87e5e)
